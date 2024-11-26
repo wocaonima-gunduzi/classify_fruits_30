@@ -3,7 +3,7 @@
 识别35张图片
 正确率：0.94
 
-数据集：
+数据集：https://zihao-openmmlab.obs.cn-east-3.myhuaweicloud.com/20220716-mmclassification/dataset/fruit30/fruit30_split.zip
 
 学习使用，基于python-pytorch的分类模型的训练、网络搭建、测试、转onnx、测试onnx
 环境：python3.8.19、
